@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "460908395916",
+    "project_id": "fir-nota-4830c",
+    "storage_bucket": "fir-nota-4830c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:460908395916:android:8bcfcf320614bc27f16aa9",
+        "android_client_info": {
+          "package_name": "com.example.nacionalfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsEyT81tjKbGaoAFLYtw-c_iIFwCO2Utc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
